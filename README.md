@@ -1,4 +1,4 @@
-# Equações-polinomiais
-Implementação de equações polinomiais de 1º e 2º grau em java 
+# Equations-polynomials
+Implementation of 1st and 2nd degree polynomial equations in java 
 # Screenshot
 ![](https://i.imgur.com/tcH5soo.png)
